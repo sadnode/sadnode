@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Igor
+- 👀 I’m interested in Node
